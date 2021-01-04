@@ -1,3 +1,4 @@
+*.csv
 /hh_demographic.csv
 /product.csv
 /retail_test1.csv
